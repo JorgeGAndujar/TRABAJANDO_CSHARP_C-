@@ -1,0 +1,300 @@
+¿Qué palabra clave se usa para declarar un método en C#?
+a) function
+b) def
+c) method
+d) void ✓
+
+¿Cómo defines una lista genérica en C#?
+a) List lista = new List();
+b) List lista = new List(); ✓
+c) List lista = new List();
+d) int List = new List();
+
+¿Qué significa la palabra clave static en un método?
+a) El método pertenece a una instancia específica.
+b) El método pertenece a la clase en lugar de a una instancia. ✓
+c) El método es privado por defecto.
+d) El método no puede retornar valores.
+
+¿Cuál es el propósito del constructor en una clase de C#?
+a) Inicializar una clase base.
+b) Asignar valores iniciales a los campos de un objeto. ✓
+c) Liberar memoria ocupada por el objeto.
+d) Definir una clase anidada.
+
+¿Qué operador se usa para acceder a los miembros de una clase?
+a) ::
+b) ->
+c) . ✓
+d) :
+
+¿Qué palabra clave se utiliza para evitar que una clase sea heredada?
+a) sealed ✓
+b) final
+c) static
+d) protected
+
+¿Qué significa el modificador de acceso protected?
+a) Solo es accesible desde la misma clase.
+b) Es accesible desde la misma clase y las clases derivadas. ✓
+c) Es accesible desde cualquier parte del programa.
+d) Solo es accesible desde la clase base.
+
+¿Cuál es el tamaño en bits de un tipo de dato long?
+a) 32 bits
+b) 64 bits ✓
+c) 128 bits
+d) 16 bits
+
+¿Qué operador se usa para comprobar si un objeto es de un tipo específico?
+a) typeof
+b) is ✓
+c) as
+d) instance
+
+¿Cómo se declara un array de 10 elementos en C#?
+a) int array = new int[10];
+b) int[] array = new int[10]; ✓
+c) array int[10];
+d) int[10] array;
+
+¿Qué método se utiliza para convertir una cadena en minúsculas?
+a) ToLower(); ✓
+b) tolower();
+c) String.ToLowercase();
+d) Convert.Lowercase();
+
+¿Qué clase se utiliza para manejar excepciones personalizadas?
+a) ErrorException
+b) CustomException
+c) Exception ✓
+d) ErrorHandler
+
+¿Qué palabra clave se usa para sobrescribir un método en una clase derivada?
+a) override ✓
+b) overload
+c) virtual
+d) base
+
+¿Qué tipo de dato se utiliza para trabajar con números complejos en C#?
+a) Complex ✓
+b) Float
+c) Decimal
+d) Real
+
+¿Qué palabra clave se usa para instanciar un objeto en C#?
+a) create
+b) instance
+c) new ✓
+d) object
+
+¿Qué significa params en los parámetros de un método?
+a) Permite pasar un número variable de argumentos. ✓
+b) Es obligatorio proporcionar un parámetro.
+c) Define un parámetro opcional.
+d) Solo acepta enteros como argumentos.
+
+¿Qué método se utiliza para eliminar espacios en blanco al principio y al final de una cadena?
+a) String.Remove()
+b) Trim() ✓
+c) Strip()
+d) Clean()
+
+¿Cómo se llama al proceso de convertir un tipo base en un tipo derivado?
+a) Upcasting
+b) Downcasting ✓
+c) Boxing
+d) Overloading
+
+¿Cuál es el resultado de 5 / 2 en C# si ambos operandos son enteros?
+a) 2.5
+b) 3
+c) 2 ✓
+d) Error
+
+¿Qué clase se utiliza para trabajar con archivos en C#?
+a) FileSystem
+b) File ✓
+c) System.IO
+d) Directory
+
+¿Qué palabra clave se usa para ejecutar un bloque de código independientemente de una excepción?
+a) finalize
+b) finally ✓
+c) always
+d) catch
+
+¿Cómo se representa un entero sin signo en C#?
+a) int
+b) uint ✓
+c) unsigned int
+d) ulong
+
+¿Cuál es el propósito del método Equals()?
+a) Comparar dos referencias de objetos.
+b) Comparar valores de dos objetos. ✓
+c) Comprobar si un objeto es null.
+d) Crear una copia de un objeto.
+
+¿Qué palabra clave permite a una clase derivada usar métodos de la clase base?
+a) super
+b) this
+c) base ✓
+d) parent
+
+¿Cuál es el propósito de Environment.NewLine?
+a) Insertar un espacio.
+b) Representar un salto de línea. ✓
+c) Borrar texto.
+d) Crear un nuevo archivo.
+
+¿Qué modificador de acceso permite acceso desde cualquier parte del programa?
+a) internal
+b) public ✓
+c) private
+d) protected
+
+¿Qué significa readonly en un campo de clase?
+a) El campo solo puede leerse en la clase base.
+b) El campo solo se puede asignar una vez, ya sea en su declaración o en el constructor. ✓
+c) El campo no puede ser accedido fuera de la clase.
+d) El campo se puede sobrescribir en cualquier momento.
+
+¿Qué clase se utiliza para manejar datos binarios en memoria?
+a) FileStream
+b) BinaryWriter
+c) MemoryStream ✓
+d) DataStream
+
+¿Qué palabra clave se usa para definir un tipo de enumeración?
+a) enum ✓
+b) enumeration
+c) define
+d) type
+
+¿Cómo se crea una copia superficial de un objeto?
+a) Usando el método Clone() ✓
+b) Usando el operador =
+c) Usando Object.Copy()
+d) No es posible en C#.
+
+¿Qué significa el sufijo ? en un tipo de dato en C#?
+a) Representa un tipo genérico.
+b) Indica que el tipo puede ser null. ✓
+c) Indica que el tipo es constante.
+d) Define un tipo de dato dinámico.
+
+¿Cómo puedes verificar si una cadena está vacía o es null?
+a) String.IsNullOrEmpty(cadena) ✓
+b) cadena == ""
+c) cadena.Length == 0
+d) cadena.Equals(null)
+
+¿Qué palabra clave se utiliza para implementar una interfaz en una clase?
+a) extend
+b) override
+c) implements
+d) : ✓
+
+¿Qué estructura de control repite un bloque de código al menos una vez?
+a) while
+b) for
+c) do-while ✓
+d) switch
+
+¿Qué operador se usa para fusionar valores null con un valor predeterminado?
+a) ?? ✓
+b) ?
+c) ||
+d) &&
+
+¿Qué palabra clave se utiliza para definir una propiedad auto-implementada?
+a) property
+b) get-set ✓
+c) auto
+d) attr
+
+¿Qué clase se utiliza para manejar cadenas de texto mutables?
+a) StringBuilder ✓
+b) MutableString
+c) StringBuffer
+d) TextString
+
+¿Cómo se establece un delegado en C#?
+a) delegate void NombreDelegado(); ✓
+b) function NombreDelegado();
+c) def NombreDelegado();
+d) action NombreDelegado();
+
+¿Qué método de Array se utiliza para ordenar elementos?
+a) Array.Sort() ✓
+b) Array.Order()
+c) Array.OrderBy()
+d) Array.SortElements()
+
+¿Qué operador se utiliza para incrementar en uno el valor de una variable?
+a) +
+b) ++ ✓
+c) +=
+d) =+
+
+¿Qué tipo de dato almacena valores verdadero o falso?
+a) boolean ✓
+b) binary
+c) bit
+d) flag
+
+¿Qué palabra clave se utiliza para evitar la modificación de un método en clases derivadas?
+a) static
+b) readonly
+c) sealed ✓
+d) const
+
+¿Qué tipo de bucle se utiliza para recorrer colecciones?
+a) foreach ✓
+b) for
+c) while
+d) loop
+
+¿Cómo se declara un evento en C#?
+a) public event Action MiEvento; ✓
+b) event MiEvento;
+c) event Action MiEvento;
+d) action event MiEvento;
+
+¿Qué significa virtual en un método?
+a) Puede ser sobrescrito en una clase derivada. ✓
+b) No puede ser llamado directamente.
+c) Es un método abstracto.
+d) No puede ser heredado.
+
+¿Qué clase se utiliza para leer datos de un archivo?
+a) StreamReader ✓
+b) FileReader
+c) TextReader
+d) FileInput
+
+¿Qué operador se utiliza para acceder a un miembro de una clase base desde una clase derivada?
+a) this
+b) base ✓
+c) super
+d) ::
+
+¿Qué palabra clave se usa para declarar un índice en una clase?
+a) index
+b) indexer ✓
+c) property
+d) indexOf
+
+¿Qué método se utiliza para dividir una cadena en partes?
+a) String.Split() ✓
+b) String.Divide()
+c) String.Break()
+d) String.Partition()
+
+¿Qué clase se utiliza para trabajar con fechas y horas?
+a) DateTime ✓
+b) Calendar
+c) TimeSpan
+d) Date
+

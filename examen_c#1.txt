@@ -1,0 +1,300 @@
+¿Cuál es la función principal del método Console.Read()?
+a) Imprimir un mensaje en consola
+b) Leer datos del teclado
+c) Esperar que se presione una tecla ✔️
+d) Detener la ejecución del programa
+
+¿Qué tipo de comentario se utiliza con /// en C#?
+a) Comentario de una sola línea
+b) Comentario XML ✔️
+c) Comentario multilínea
+d) Comentario ignorado por el compilador
+
+¿Qué operador lógico devuelve true si ambos operandos son verdaderos?
+a) ||
+b) && ✔️
+c) !
+d) ==
+
+¿Cuál es el tipo de dato para una variable que almacena texto?
+a) int
+b) float
+c) char
+d) string ✔️
+
+¿Cómo se convierte una cadena "123" en un entero en C#?
+a) int.Parse("123") ✔️
+b) Convert.ToString("123")
+c) float.Parse("123")
+d) Convert.ToInt64("123")
+
+¿Qué método permite redondear un número decimal en C#?
+a) Math.Pow
+b) Math.Round ✔️
+c) Math.Sqrt
+d) Math.Abs
+
+¿Qué símbolo se usa para indicar un literal de cadena "verbatim" en C#?
+a) $
+b) @ ✔️
+c) &
+d) #
+
+¿Qué tipo de bucle se ejecuta al menos una vez, independientemente de la condición?
+a) for
+b) while
+c) do...while ✔️
+d) foreach
+
+¿Cuál es la salida de Math.Pow(2, 3)?
+a) 5
+b) 6
+c) 8 ✔️
+d) 9
+
+¿Qué tipo de estructura es una Queue?
+a) LIFO
+b) FIFO ✔️
+c) Aleatoria
+d) Circular
+
+¿Cuál de los siguientes no es un tipo de colección genérica en C#?
+a) List
+b) Dictionary<TKey, TValue>
+c) ArrayList ✔️
+d) HashSet
+
+¿Cómo defines una clase en C#?
+a) class NombreClase { } ✔️
+b) Class NombreClase { }
+c) class (NombreClase) { }
+d) def NombreClase { }
+
+¿Qué comando se usa para limpiar la consola en C#?
+a) Console.Clear() ✔️
+b) Console.Clean()
+c) Console.Remove()
+d) Console.Wipe()
+
+¿Qué palabra clave se usa para manejar excepciones en C#?
+a) throw
+b) try ✔️
+c) exception
+d) catcherror
+
+¿Cuál es la diferencia principal entre int.Parse y Convert.ToInt32?
+a) Ambos lanzan excepciones en caso de formato inválido
+b) Convert.ToInt32 devuelve 0 si el valor es null ✔️
+c) int.Parse no soporta cadenas nulas
+d) Ninguna de las anteriores
+
+¿Qué se usa para generar un número aleatorio en C#?
+a) Random() ✔️
+b) Math.Random()
+c) Aleatorio()
+d) RNG()
+
+¿Qué tipo de variable almacena un valor booleano?
+a) string
+b) bool ✔️
+c) char
+d) int
+
+¿Qué propiedad devuelve el número de elementos en una colección?
+a) Size
+b) Length
+c) Count ✔️
+d) Capacity
+
+¿Qué operador se usa para realizar una asignación condicional?
+a) :
+b) ? : ✔️
+c) ==
+d) ??
+
+¿Qué hace el método Console.WriteLine()?
+a) Escribe en un archivo
+b) Imprime en la consola ✔️
+c) Detiene el programa
+d) Espera una entrada
+
+¿Qué valor tiene la variable bool flag = !true;?
+a) true
+b) false ✔️
+c) 1
+d) 0
+
+¿Cómo se declara un array unidimensional?
+a) int array[] = new int[5]; ✔️
+b) int array = new int[5];
+c) int[] array = { 5 };
+d) int array = { 5 };
+
+¿Qué palabra clave se utiliza para definir una constante?
+a) final
+b) static
+c) const ✔️
+d) readonly
+
+¿Cómo se verifica si una clave existe en un Dictionary?
+a) ContainsValue
+b) ContainsKey ✔️
+c) HasKey
+d) Exists
+
+¿Qué valor devuelve Convert.ToBoolean(0)?
+a) true
+b) false ✔️
+c) null
+d) Exception
+
+¿Qué significa el modificador private en C#?
+a) Accesible solo dentro de la misma clase ✔️
+b) Accesible desde cualquier lugar del programa
+c) Accesible desde clases derivadas
+d) Ninguna de las anteriores
+
+¿Cuál de estos no es un tipo de dato en C#?
+a) double
+b) float
+c) string
+d) list ✔️
+
+¿Qué palabra clave se usa para heredar una clase en C#?
+a) inherit
+b) base
+c) extends
+d) : ✔️
+
+¿Qué tipo de excepción se lanza cuando se divide un número por cero?
+a) FormatException
+b) NullReferenceException
+c) DivideByZeroException ✔️
+d) OverflowException
+
+¿Qué método se utiliza para ordenar un arreglo en C#?
+a) Sort() ✔️
+b) Order()
+c) Arrange()
+d) Shuffle()
+
+¿Qué palabra clave se utiliza para definir un método que no devuelve valor?
+a) void ✔️
+b) null
+c) return
+d) empty
+
+¿Qué hace el operador ?? en C#?
+a) Compara dos valores
+b) Devuelve el segundo valor si el primero es null ✔️
+c) Asigna un valor
+d) Lanza una excepción
+
+¿Qué tipo de bucle recorre directamente los elementos de una colección?
+a) for
+b) while
+c) do...while
+d) foreach ✔️
+
+¿Cómo defines un método estático en C#?
+a) static void MiMetodo() ✔️
+b) void static MiMetodo()
+c) static MiMetodo() void
+d) Ninguna de las anteriores
+
+¿Cuál es el rango de valores para un tipo byte en C#?
+a) -128 a 127
+b) 0 a 255 ✔️
+c) -255 a 255
+d) 0 a 127
+
+¿Qué operador se usa para acceder a los miembros de una clase o estructura?
+a) :
+b) . ✔️
+c) ->
+d) ::
+
+¿Qué es un constructor en C#?
+a) Un método especial que se ejecuta al crear una instancia de una clase ✔️
+b) Una clase dentro de otra clase
+c) Un tipo de propiedad
+d) Ninguna de las anteriores
+
+¿Qué método elimina el último elemento de una lista en C#?
+a) Remove()
+b) RemoveAt() ✔️
+c) Pop()
+d) Delete()
+
+¿Cómo defines una propiedad en C#?
+a) int MiPropiedad { get; set; } ✔️
+b) property MiPropiedad
+c) define MiPropiedad
+d) Ninguna de las anteriores
+
+¿Cuál es el propósito del operador is en C#?
+a) Verificar si un objeto es de un tipo específico ✔️
+b) Comparar dos objetos
+c) Asignar valores
+d) Convertir tipos
+
+¿Qué tipo de dato usarías para almacenar un número con decimales de alta precisión?
+a) float
+b) double
+c) decimal ✔️
+d) int
+
+¿Qué palabra clave se usa para salir de un bucle en C#?
+a) break ✔️
+b) exit
+c) continue
+d) stop
+
+¿Qué palabra clave se usa para omitir una iteración en un bucle?
+a) break
+b) skip
+c) continue ✔️
+d) pass
+
+¿Qué hace el método Substring()?
+a) Divide una cadena en subcadenas
+b) Devuelve una parte de la cadena ✔️
+c) Convierte una cadena a mayúsculas
+d) Reemplaza caracteres en una cadena
+
+¿Qué significa null en C#?
+a) Un valor booleano
+b) Un objeto vacío ✔️
+c) Una excepción
+d) Ninguna de las anteriores
+
+¿Qué palabra clave se usa para crear una instancia de una clase?
+a) new ✔️
+b) create
+c) make
+d) build
+
+¿Cuál es el propósito de try-catch?
+a) Manejar excepciones ✔️
+b) Depurar el programa
+c) Probar funciones
+d) Ninguna de las anteriores
+
+¿Qué método convierte un string en minúsculas?
+a) ToUpper()
+b) ToLower() ✔️
+c) ConvertToLower()
+d) Minimize()
+
+¿Qué palabra clave se usa para declarar una interfaz en C#?
+a) interface ✔️
+b) abstract
+c) implements
+d) class
+
+¿Qué significa el modificador readonly en C#?
+a) Solo se puede escribir una vez ✔️
+b) Solo se puede leer una vez
+c) Solo se puede acceder desde la misma clase
+d) Ninguna de las anteriores
+

@@ -1,0 +1,46 @@
+﻿<Window x:Class="ProyectoVentanaMysql.Examen.ClientesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoVentanaMysql.Examen"
+        mc:Ignorable="d"
+        Title="ClientesWindow" Height="600" Width="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+
+        <DataGrid x:Name="PedidosDataGrid" AutoGenerateColumns="False" Grid.Row="0" FontFamily="Courier New" Margin="5 0 5 0" FontSize="13" CanUserAddRows="False"
+       SelectionMode="Single" >
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID Pedido" Binding="{Binding IdPedido}" Width="*"/>
+                <DataGridTextColumn Header="ID Vendedor" Binding="{Binding IdVendedor}" Width="*"/>
+                <DataGridTextColumn Header="ID Cliente" Binding="{Binding IdCliente}" Width="*"/>
+                <DataGridTextColumn Header="ID Fábrica" Binding="{Binding IdFabrica}" Width="*"/>
+                <DataGridTextColumn Header="ID Producto" Binding="{Binding IdProducto}" Width="*"/>
+                <DataGridTextColumn Header="Fecha Pedido" Binding="{Binding FechaPedido}" Width="*"/>
+                <DataGridTextColumn Header="Cantidad" Binding="{Binding Cantidad}" Width="*"/>
+                <DataGridTextColumn Header="Importe" Binding="{Binding Importe}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <!-- Esto permite que el ComboBox se centre -->
+                <ColumnDefinition Width="Auto" />
+                <!-- Esto es para que el TextBlock ocupe solo el espacio necesario -->
+            </Grid.ColumnDefinitions>
+
+            <!-- ComboBox centrado en la primera columna -->
+            <ComboBox x:Name="CmbEmpresa" Width="250" Margin="5" SelectionChanged="CmbEmpresa_SelectionChanged" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="0"/>
+
+            <!-- TextBlock alineado a la derecha en la segunda columna -->
+            <TextBlock Name="TxtImporteTotal" Width="100" Margin="5" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="1"/>
+        </Grid>
+
+
+    </Grid>
+</Window>

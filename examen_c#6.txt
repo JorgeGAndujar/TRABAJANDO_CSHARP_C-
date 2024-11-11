@@ -1,0 +1,299 @@
+¿Qué palabra clave se utiliza para definir un método en C#?
+a) function
+b) def
+c) method
+d) void ✅
+
+¿Qué operador se utiliza para comparar si dos valores son diferentes?
+a) =
+b) != ✅
+c) ==
+d) <>
+
+¿Qué tipo de excepción se lanza si se intenta dividir un número por cero?
+a) NullReferenceException
+b) DivideByZeroException ✅
+c) ArgumentException
+d) InvalidOperationException
+
+¿Qué método de la clase Console se utiliza para imprimir texto en la consola?
+a) Console.Read
+b) Console.Write ✅
+c) Console.Print
+d) Console.Display
+
+¿Cuál es el valor por defecto de una variable de tipo int?
+a) null
+b) 1
+c) 0 ✅
+d) Ninguno
+
+¿Qué palabra clave define una clase que no puede ser heredada?
+a) sealed ✅
+b) abstract
+c) static
+d) final
+
+¿Qué método se utiliza para leer una línea completa de la consola?
+a) Console.GetLine
+b) Console.ReadLine ✅
+c) Console.Input
+d) Console.ReadKey
+
+¿Cuál de las siguientes estructuras de datos garantiza el orden de los elementos?
+a) HashSet
+b) List ✅
+c) Dictionary
+d) Stack
+
+¿Qué palabra clave se usa para lanzar una excepción manualmente?
+a) throw ✅
+b) try
+c) catch
+d) raise
+
+¿Qué tipo de dato usarías para almacenar un número muy grande?
+a) int
+b) long ✅
+c) double
+d) float
+
+¿Cómo se inicializa una lista vacía en C#?
+a) List lista = new List();
+b) List lista = [];
+c) List lista = new List(); ✅
+d) List lista = List();
+
+¿Qué operador se usa para incrementar el valor de una variable en 1?
+a) --
+b) ++ ✅
+c) +=
+d) **
+
+¿Qué clase en C# permite trabajar con el tiempo y las fechas?
+a) TimeDate
+b) Date
+c) DateTime ✅
+d) Calendar
+
+¿Cuál de las siguientes opciones permite iterar sobre los elementos de un array?
+a) foreach ✅
+b) for
+c) while
+d) Todas las anteriores
+
+¿Qué método de la clase Random genera un número entre dos valores?
+a) Generate
+b) Next ✅
+c) Randomize
+d) Between
+
+¿Qué palabra clave se usa para declarar una constante?
+a) final
+b) const ✅
+c) static
+d) immutable
+
+¿Qué método convierte un string en mayúsculas?
+a) ToLower
+b) ConvertToUpper
+c) ToUpper ✅
+d) UpperCase
+
+¿Qué clase se utiliza para realizar operaciones matemáticas en C#?
+a) Math ✅
+b) Calculate
+c) Numbers
+d) Operations
+
+¿Cuál de las siguientes opciones define un bucle infinito?
+a) for (;;) ✅
+b) while (true)
+c) do {...} while (true)
+d) Todas las anteriores ✅
+
+¿Qué palabra clave se utiliza para especificar una clase base en una declaración de clase derivada?
+a) base
+b) parent
+c) : ✅
+d) extends
+
+¿Qué método se utiliza para detener la ejecución del programa hasta que se presione una tecla?
+a) Console.Wait
+b) Console.ReadKey ✅
+c) Console.Pause
+d) Console.Stop
+
+¿Qué tipo de bucle es ideal para iterar sobre una colección cuando no se necesita el índice?
+a) for
+b) foreach ✅
+c) while
+d) do...while
+
+¿Qué palabra clave permite sobrescribir un método en una clase derivada?
+a) override ✅
+b) super
+c) extend
+d) virtual
+
+¿Qué palabra clave se utiliza para indicar que un método no devuelve un valor?
+a) void ✅
+b) return
+c) null
+d) empty
+
+¿Cuál es el propósito del método Substring?
+a) Convertir una cadena a minúsculas
+b) Extraer una porción de una cadena ✅
+c) Reemplazar caracteres en una cadena
+d) Concatenar cadenas
+
+¿Qué operador se usa para asignar un valor a una variable?
+a) ==
+b) = ✅
+c) ===
+d) ->
+
+¿Cuál es el rango de valores de un tipo byte?
+a) 0 a 255 ✅
+b) -128 a 127
+c) 0 a 65535
+d) -32768 a 32767
+
+¿Qué método elimina un elemento específico de una lista?
+a) Remove ✅
+b) Delete
+c) RemoveAt
+d) Clear
+
+¿Qué palabra clave se utiliza para declarar una interfaz?
+a) interface ✅
+b) implements
+c) class
+d) abstract
+
+¿Qué operador realiza una comparación estricta de igualdad?
+a) =
+b) == ✅
+c) !=
+d) ===
+
+¿Qué clase se utiliza para manejar excepciones?
+a) Error
+b) Exception ✅
+c) RuntimeError
+d) Throwable
+
+¿Qué método convierte un string en un valor booleano?
+a) Convert.ToBool ✅
+b) bool.Parse
+c) ToBoolean
+d) Parse.Bool
+
+¿Qué palabra clave se utiliza para definir un método abstracto?
+a) abstract ✅
+b) virtual
+c) static
+d) base
+
+¿Qué operador se utiliza para el OR lógico?
+a) &
+b) &&
+c) |
+d) || ✅
+
+¿Qué palabra clave se usa para implementar una interfaz?
+a) extends
+b) implements
+c) interface
+d) : ✅
+
+¿Qué método convierte un número a una cadena en formato moneda?
+a) ToCurrency
+b) Convert.ToMoney
+c) ToString("C") ✅
+d) FormatMoney
+
+¿Qué clase permite manejar datos JSON en C#?
+a) JsonHandler
+b) JsonSerializer ✅
+c) JsonConverter
+d) JsonParser
+
+¿Qué método devuelve la longitud de una cadena?
+a) Size
+b) Length ✅
+c) Count
+d) Measure
+
+¿Qué palabra clave define una variable cuyo valor no puede cambiar después de ser asignado?
+a) const ✅
+b) readonly
+c) static
+d) immutable
+
+¿Qué clase se utiliza para manejar operaciones de archivos?
+a) System.File
+b) System.IO ✅
+c) System.Directory
+d) System.Data
+
+¿Qué operador se usa para calcular el resto de una división?
+a) % ✅
+b) //
+c) /
+d) **
+
+¿Qué palabra clave se usa para invocar el constructor de la clase base?
+a) this
+b) base ✅
+c) super
+d) parent
+
+¿Qué método de la clase Math calcula la raíz cuadrada de un número?
+a) Math.Sqrt ✅
+b) Math.Root
+c) Math.Pow
+d) Math.Square
+
+¿Qué tipo de dato usarías para almacenar una dirección de memoria?
+a) pointer
+b) IntPtr ✅
+c) Address
+d) long
+
+¿Qué clase se utiliza para representar excepciones de formato?
+a) InvalidFormatException
+b) FormatException ✅
+c) DataFormatException
+d) InputException
+
+¿Qué método agrega un elemento al final de una lista?
+a) Append
+b) Add ✅
+c) Push
+d) Insert
+
+¿Qué palabra clave se utiliza para indicar que un método puede ser sobrescrito?
+a) override
+b) virtual ✅
+c) abstract
+d) new
+
+¿Qué clase se utiliza para leer o escribir datos en un flujo de datos?
+a) File
+b) Stream ✅
+c) DataReader
+d) Buffer
+
+¿Qué tipo de dato se utiliza para almacenar un carácter Unicode?
+a) string
+b) char ✅
+c) byte
+d) wchar
+
+¿Qué método convierte un número decimal en una representación de cadena en C#?
+a) ToString ✅
+b) Convert.ToString
+c) DecimalToString
+d) FormatDecimal

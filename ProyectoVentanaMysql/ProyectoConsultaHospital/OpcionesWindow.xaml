@@ -1,0 +1,35 @@
+﻿<Window x:Class="ProyectoVentanaMysql.ProyectoConsultaHospital.OpcionesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoVentanaMysql.ProyectoConsultaHospital"
+        mc:Ignorable="d"
+            Title="Opciones"
+    Height="180"
+    Width="300"
+    FontFamily="Courier New"
+    FontSize="12"
+    ResizeMode="NoResize"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="SingleBorderWindow"
+    Background="LightGray">
+
+    <Grid>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="5">
+            <ComboBox x:Name="YearComboBox" Width="100" Height="21" SelectionChanged="YearComboBox_SelectionChanged">
+            <!-- Agrega más años según sea necesario -->
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center"  Margin="5">
+            <ComboBox x:Name="PartosComboBox" Width="100" Height="21" SelectionChanged="PartosComboBox_SelectionChanged">
+                <!-- Agrega más años según sea necesario -->
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="5">
+            <Button Content="Buscar Por Parto y Fecha" Margin="5" FontSize="10" Click="BtnBuscar_Click" Width="193" />
+        </StackPanel>
+        <!-- Agrega más años según sea necesario -->
+    </Grid>
+  
+</Window>

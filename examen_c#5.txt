@@ -1,0 +1,302 @@
+¿Cuál es el propósito del método Console.Read() en un programa de C#?
+a) Escribir datos en la consola
+b) Leer datos del usuario desde la consola ✅
+c) Detener la ejecución del programa
+d) Ejecutar una tarea asíncrona
+
+¿Qué operador se utiliza para realizar una operación lógica AND en C#?
+a) ||
+b) && ✅
+c) !
+d) ^
+
+¿Qué tipo de dato se usa para almacenar valores booleanos en C#?
+a) int
+b) bool ✅
+c) string
+d) float
+
+¿Qué hace el siguiente código?
+
+string ruta = @"C:\Users\Usuario\Desktop\archivo.txt";
+
+a) Asigna una ruta de archivo escapada a una variable de tipo string ✅
+b) Crea un archivo en la ruta especificada
+c) Ejecuta un archivo en la ruta especificada
+d) Lanza una excepción
+
+¿Cuál es la diferencia principal entre int.Parse() y Convert.ToInt32()?
+a) int.Parse() maneja nulos devolviendo 0
+b) Convert.ToInt32() lanza una excepción en valores nulos
+c) int.Parse() lanza una excepción si el valor es nulo ✅
+d) No hay diferencia
+
+¿Qué operador lógico invierte el valor de un booleano?
+a) &&
+b) ||
+c) ! ✅
+d) ==
+
+¿Cuál de las siguientes opciones es un comentario de varias líneas en C#?
+a) // Comentario
+b) /* Comentario */ ✅
+c) 
+d) ' Comentario
+
+¿Qué tipo de dato usarías para almacenar el valor "H"?
+a) string
+b) char ✅
+c) bool
+d) int
+
+¿Qué palabra clave se usa para definir un espacio de nombres en C#?
+a) using
+b) namespace ✅
+c) class
+d) struct
+
+¿Qué función redondea un número decimal a 2 decimales?
+a) Math.Floor
+b) Math.Round ✅
+c) Math.Ceil
+d) Math.Truncate
+
+¿Qué operador se utiliza para concatenar cadenas en C#?
+a) + ✅
+b) &
+c) &&
+d) |
+
+¿Qué tipo de dato tiene mayor precisión para cálculos financieros?
+a) float
+b) double
+c) decimal ✅
+d) int
+
+¿Qué tipo de excepción lanza int.Parse() si el formato de entrada es inválido?
+a) ArgumentNullException
+b) InvalidOperationException
+c) FormatException ✅
+d) IndexOutOfRangeException
+
+¿Qué método se utiliza para generar números aleatorios en C#?
+a) Random.Next ✅
+b) Math.Random
+c) Randomize
+d) Next.Random
+
+¿Qué estructura se usa para manejar múltiples casos en C#?
+a) if-else
+b) for
+c) switch ✅
+d) while
+
+¿Cómo se declara un array unidimensional en C#?
+a) int[] arreglo ✅
+b) int arreglo[]
+c) int[1] arreglo
+d) array int[]
+
+¿Cuál es el valor por defecto de una variable bool?
+a) true
+b) false ✅
+c) null
+d) 0
+
+¿Qué método convierte un string en un int?
+a) ToInt32
+b) Convert.ToInt32 ✅
+c) int.ToString
+d) Parse.String
+
+¿Qué palabra clave se utiliza para manejar excepciones?
+a) exception
+b) throw
+c) try ✅
+d) error
+
+¿Qué simboliza el símbolo @ en cadenas de texto?
+a) Ignorar caracteres de escape ✅
+b) Crear una cadena de texto dinámica
+c) Convertir una cadena a mayúsculas
+d) Concatenar cadenas
+
+¿Qué método se usa para pausar la consola hasta que el usuario presione Enter?
+a) Console.ReadKey
+b) Console.ReadLine ✅
+c) Console.Pause
+d) Console.Stop
+
+¿Qué tipo de bucle asegura que el código se ejecute al menos una vez?
+a) for
+b) while
+c) do...while ✅
+d) foreach
+
+¿Cómo se asigna un valor condicional a una variable?
+a) if-else
+b) ternario ✅
+c) switch
+d) case
+
+¿Cuál es la función de Math.Pow?
+a) Calcular raíces
+b) Elevar a una potencia ✅
+c) Redondear números
+d) Generar números aleatorios
+
+¿Qué método se usa para convertir un número a formato hexadecimal?
+a) Convert.ToString(num, 16) ✅
+b) Math.Hex(num)
+c) num.ToHexadecimal()
+d) HexConverter(num)
+
+¿Cuál de las siguientes es una colección genérica en C#?
+a) Array
+b) List ✅
+c) Hashtable
+d) ArrayList
+
+¿Qué método elimina todos los elementos de un Dictionary?
+a) Clear ✅
+b) Remove
+c) Delete
+d) Reset
+
+¿Qué palabra clave define una clase en C#?
+a) object
+b) class ✅
+c) struct
+d) type
+
+¿Cómo se accede al primer elemento de un array llamado numeros?
+a) numeros[1]
+b) numeros[0] ✅
+c) numeros.first
+d) numeros.get(0)
+
+¿Qué se necesita para usar Console.Clear()?
+a) Importar el espacio de nombres System ✅
+b) Crear una clase
+c) Inicializar una variable
+d) Definir un método
+
+¿Qué palabra clave se utiliza para salir de un bucle en C#?
+a) return
+b) continue
+c) break ✅
+d) exit
+
+¿Qué método convierte un DateTime a una cadena de texto?
+a) ToString ✅
+b) Parse
+c) Convert.Date
+d) Format.Date
+
+¿Qué tipo de colección usa pares clave-valor en C#?
+a) List
+b) Dictionary<TKey, TValue> ✅
+c) Queue
+d) HashSet
+
+¿Qué se utiliza para manejar múltiples hilos de manera segura?
+a) ConcurrentDictionary ✅
+b) Hashtable
+c) List
+d) Array
+
+¿Qué método agrega un elemento a un List<T>?
+a) Add ✅
+b) Insert
+c) Push
+d) Append
+
+¿Qué operador se utiliza para igualdades?
+a) =
+b) == ✅
+c) ===
+d) !=
+
+¿Qué palabra clave se utiliza para heredar de una clase en C#?
+a) extends
+b) implements
+c) base
+d) : ✅
+
+¿Qué método asegura que una cadena se interprete como XML?
+a) <summary> ✅
+b) <code>
+c) <comment>
+d) <format>
+
+¿Qué método redondea un número hacia arriba?
+a) Math.Round
+b) Math.Ceil ✅
+c) Math.Floor
+d) Math.Truncate
+
+¿Qué clase se usa para leer datos del usuario?
+a) System.Console ✅
+b) System.Input
+c) System.Reader
+d) System.IO
+
+¿Qué se utiliza para generar números únicos ordenados en C#?
+a) GUID
+b) AutoIncrement
+c) SortedDictionary ✅
+d) HashSet
+
+¿Cómo se representa un comentario de una sola línea?
+a) #
+b) // ✅
+c) /* */
+d) --
+
+¿Qué método lanza una excepción manualmente?
+a) throw ✅
+b) try
+c) catch
+d) error
+
+¿Qué tipo de colección garantiza elementos únicos?
+a) List
+b) HashSet ✅
+c) Queue
+d) Stack
+
+¿Qué método convierte un número decimal a binario?
+a) Convert.ToString(num, 2) ✅
+b) Math.Binary(num)
+c) num.ToBinary()
+d) BinaryConverter(num)
+
+¿Cómo se define una clase abstracta?
+a) sealed class
+b) abstract class ✅
+c) static class
+d) virtual class
+
+¿Qué palabra clave permite sobrecargar métodos?
+a) new
+b) override ✅
+c) virtual
+d) base
+
+¿Qué método elimina un elemento de una lista por índice?
+a) RemoveAt ✅
+b) Remove
+c) DeleteAt
+d) Reset
+
+¿Qué estructura almacena datos en el orden en que se insertaron?
+a) Dictionary
+b) List ✅
+c) SortedDictionary
+d) HashSet
+
+¿Qué método se utiliza para redondear un número decimal a un número específico de decimales en C#?
+a) Math.Round ✅
+b) Math.Ceil
+c) Math.Floor
+d) Math.Truncate

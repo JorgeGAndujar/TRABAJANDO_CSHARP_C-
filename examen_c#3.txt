@@ -1,0 +1,300 @@
+¿Qué palabra clave se utiliza para declarar un espacio de nombres en C#?
+a) namespace ✓
+b) package
+c) module
+d) library
+
+¿Cuál es el propósito de la clase Console en C#?
+a) Gestionar bases de datos
+b) Proveer métodos de entrada y salida ✓
+c) Manejar errores
+d) Crear interfaces gráficas
+
+¿Cómo se declara una variable de tipo entero?
+a) int variable; ✓
+b) integer variable;
+c) var integer;
+d) decimal variable;
+
+¿Qué operador lógico se usa para evaluar si ambas condiciones son verdaderas?
+a) ||
+b) && ✓
+c) !
+d) ??
+
+¿Cómo se realiza una conversión explícita de tipo flotante a entero en C#?
+a) (float)variable;
+b) (int)variable; ✓
+c) toInt(variable);
+d) variable.cast(int);
+
+¿Qué método se utiliza para leer una entrada de usuario en consola?
+a) Console.ReadLine(); ✓
+b) Console.GetInput();
+c) Console.Read();
+d) Console.Input();
+
+¿Qué palabra clave se utiliza para manejar excepciones en C#?
+a) catch ✓
+b) exception
+c) tryexcept
+d) errorhandler
+
+¿Cuál es la diferencia principal entre float y double?
+a) float es más preciso que double
+b) double puede almacenar números más grandes y con mayor precisión que float ✓
+c) No hay diferencia
+d) float se usa solo en aplicaciones financieras
+
+¿Cómo se representa un carácter en C#?
+a) "caracter"
+b) 'caracter' ✓
+c) "caracter"
+d) |caracter|
+
+¿Cuál es el resultado de Math.Pow(2, 3)?
+a) 6
+b) 8 ✓
+c) 9
+d) 10
+
+¿Qué librería se utiliza en el programa "Hola Mundo"?
+a) System.Collections.Generic
+b) System.Linq
+c) System.Threading.Tasks
+d) System ✓
+
+¿Cómo se llama el método principal de ejecución en un programa de C#?
+a) main()
+b) Start()
+c) Main() ✓
+d) Run()
+
+¿Cuál es el resultado de evaluar true && false?
+a) true
+b) false ✓
+c) null
+d) Undefined
+
+¿Cuál es el tipo de dato adecuado para almacenar una cadena de texto en C#?
+a) int
+b) string ✓
+c) char
+d) bool
+
+¿Qué método se utiliza para evitar que la consola se cierre automáticamente?
+a) Console.ReadLine()
+b) Console.Read() ✓
+c) Console.Wait()
+d) Console.Pause()
+
+¿Cómo se representa un comentario de múltiples líneas en C#?
+a) // Comentario de múltiples líneas
+b) /// Comentario de múltiples líneas
+c) /* Comentario de múltiples líneas */ ✓
+d) 
+
+¿Cuál es la salida del siguiente código si string nombre = "Arturo" y se imprime con Console.WriteLine(nombre)?
+a) Arturo ✓
+b) "Arturo"
+c) null
+d) Error
+
+¿Qué operador se usa para comparar si dos expresiones lógicas son verdaderas al mismo tiempo?
+a) ||
+b) && ✓
+c) !
+d) ==
+
+¿En el contexto de la conversión de tipos, qué método se usa para convertir una cadena a un entero?
+a) Convert.ToInt32() ✓
+b) int.String()
+c) int.Parse()
+d) ToInt32.Parse()
+
+¿Cuál es la diferencia principal entre double y decimal?
+a) double tiene mayor precisión que decimal.
+b) decimal tiene mayor precisión que double. ✓
+c) Ambos tienen la misma precisión.
+d) decimal solo se usa en cálculos financieros.
+
+¿Cuál es el resultado del siguiente código? char letra = (char)65; Console.WriteLine(letra);
+a) A ✓
+b) 65
+c) Error
+d) a
+
+¿Qué sucede si intentas convertir "ABC" a entero usando Convert.ToInt32("ABC")?
+a) Lanza una excepción de formato. ✓
+b) Retorna 0.
+c) Retorna -1.
+d) Retorna null.
+
+¿En un programa de C#, cuál es el propósito de usar @ antes de una cadena?
+a) Evitar caracteres especiales. ✓
+b) Indicar que es una constante.
+c) Hacer que la cadena sea inmutable.
+d) Agregar un comentario.
+
+¿Qué palabra clave se usa para declarar un bucle que se ejecuta mientras una condición sea verdadera?
+a) for
+b) while ✓
+c) do
+d) switch
+
+¿Cuál es el método correcto para redondear un número decimal a dos decimales?
+a) Math.Round(numero, 2) ✓
+b) Math.Round(2, numero)
+c) numero.Round(2)
+d) Round.Math(numero, 2)
+
+¿Cuál de las siguientes estructuras de datos almacena elementos únicos?
+a) List
+b) HashSet ✓
+c) Queue
+d) Stack
+
+¿Cómo se genera un número aleatorio entre 1 y 6 en C#?
+a) Random.Next(1, 6)
+b) Random rnd = new Random(); rnd.Next(1, 7) ✓
+c) Math.Random(1, 6)
+d) Random(1, 6)
+
+¿Qué estructura de control se utiliza para ejecutar código basado en el valor de una variable?
+a) if-else
+b) switch ✓
+c) do-while
+d) try-catch
+
+¿En C#, qué palabra clave se usa para manejar excepciones?
+a) exception
+b) handle
+c) try-catch ✓
+d) error
+
+¿Cómo defines un arreglo de enteros en C#?
+a) int[] numeros = new int[5]; ✓
+b) int numeros = [5];
+c) array numeros = int[5];
+d) int numeros[5];
+
+¿Cuál es el método correcto para recorrer todos los elementos de una lista en C#?
+a) for
+b) foreach ✓
+c) while
+d) Todos los anteriores
+
+¿Cuál es el resultado de Math.Pow(2, 3)?
+a) 6
+b) 8 ✓
+c) 9
+d) 16
+
+¿Qué método se utiliza para convertir un entero a una cadena?
+a) ToString() ✓
+b) Convert.ToString()
+c) string.Convert()
+d) int.Parse()
+
+¿Qué se utiliza para declarar una constante en C#?
+a) var
+b) readonly
+c) const ✓
+d) static
+
+¿Qué palabra clave se usa para heredar de una clase base?
+a) inherit
+b) extends
+c) base
+d) : ✓
+
+¿Cuál es el propósito del método Dispose()?
+a) Manejar errores.
+b) Liberar recursos no administrados. ✓
+c) Iniciar el programa.
+d) Convertir tipos de datos.
+
+¿Qué estructura de datos sigue el principio LIFO (Last In, First Out)?
+a) Queue
+b) List
+c) Stack ✓
+d) HashSet
+
+¿Qué clase se utiliza para manejar listas genéricas?
+a) Array
+b) ArrayList
+c) List ✓
+d) LinkedList
+
+¿Qué palabra clave se usa para declarar una interfaz?
+a) interface ✓
+b) abstract
+c) implements
+d) class
+
+¿Qué sucede si catch no maneja una excepción?
+a) El programa se detiene. ✓
+b) El programa se reinicia.
+c) La excepción se ignora.
+d) El programa regresa al estado inicial.
+
+¿Cuál es el tamaño predeterminado de un int en C#?
+a) 16 bits
+b) 32 bits ✓
+c) 64 bits
+d) 128 bits
+
+¿Cómo puedes verificar si una clave existe en un Dictionary?
+a) dictionary.CheckKey(key)
+b) dictionary.KeyExists(key)
+c) dictionary.ContainsKey(key) ✓
+d) dictionary.HasKey(key)
+
+¿Qué operador se usa para la asignación condicional en C#?
+a) &&
+b) ||
+c) ?: ✓
+d) ==
+
+¿Cuál de los siguientes es un valor booleano?
+a) "true"
+b) true ✓
+c) "false"
+d) 1
+
+¿Qué clase se utiliza para capturar entradas del teclado?
+a) Console.ReadLine() ✓
+b) Console.Input()
+c) System.Read()
+d) Input.Capture()
+
+¿Cuál es el propósito de using en C#?
+a) Declarar variables.
+b) Importar namespaces. ✓
+c) Iniciar el programa.
+d) Manejar excepciones.
+
+¿Qué palabra clave se usa para detener un bucle?
+a) break ✓
+b) continue
+c) stop
+d) exit
+
+¿Cuál de los siguientes tipos de datos almacena un solo carácter?
+a) string
+b) char ✓
+c) bool
+d) int
+
+¿Qué palabra clave se utiliza para devolver un valor de un método?
+a) return ✓
+b) break
+c) yield
+d) end
+
+¿Cómo puedes definir un arreglo multidimensional en C#?
+a) int[,] matriz = new int[3,3]; ✓
+b) int[][] matriz = new int[3,3];
+c) array matriz = int[3,3];
+d) matriz = int[3][3];
+

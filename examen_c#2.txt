@@ -1,0 +1,300 @@
+¿Qué librería se utiliza en el programa "Hola Mundo"?
+A) System.Collections.Generic
+B) System.Linq
+C) System.Threading.Tasks
+D) System ✓
+
+¿Cómo se llama el método principal de ejecución en un programa de C#?
+A) main()
+B) Start()
+C) Main() ✓
+D) Run()
+
+¿Cuál es el resultado de evaluar true && false?
+A) true
+B) false ✓
+C) null
+D) Undefined
+
+¿Cuál es el tipo de dato adecuado para almacenar una cadena de texto en C#?
+A) int
+B) string ✓
+C) char
+D) bool
+
+¿Qué método se utiliza para evitar que la consola se cierre automáticamente?
+A) Console.ReadLine()
+B) Console.Read() ✓
+C) Console.Wait()
+D) Console.Pause()
+
+¿Cómo se representa un comentario de múltiples líneas en C#?
+A) // Comentario de múltiples líneas
+B) /// Comentario de múltiples líneas
+C) /* Comentario de múltiples líneas */ ✓
+D) 
+
+¿Cuál es la salida del siguiente código si string nombre = "Arturo" y se imprime con Console.WriteLine(nombre)?
+A) Arturo ✓
+B) "Arturo"
+C) null
+D) Error
+
+¿Qué operador se usa para comparar si dos expresiones lógicas son verdaderas al mismo tiempo?
+A) ||
+B) && ✓
+C) !
+D) ==
+
+¿En el contexto de la conversión de tipos, qué método se usa para convertir una cadena a un entero?
+A) Convert.ToInt32() ✓
+B) int.String()
+C) int.Parse()
+D) ToInt32.Parse()
+
+¿Cuál es la diferencia principal entre double y decimal?
+A) double tiene mayor precisión que decimal.
+B) decimal tiene mayor precisión que double. ✓
+C) Ambos tienen la misma precisión.
+D) decimal solo se usa en cálculos financieros.
+
+¿Cuál es el resultado del siguiente código? char letra = (char)65; Console.WriteLine(letra);
+A) A ✓
+B) 65
+C) Error
+D) a
+
+¿Qué sucede si intentas convertir "ABC" a entero usando Convert.ToInt32("ABC")?
+A) Lanza una excepción de formato. ✓
+B) Retorna 0.
+C) Retorna -1.
+D) Retorna null.
+
+¿En un programa de C#, cuál es el propósito de usar @ antes de una cadena?
+A) Evitar caracteres especiales. ✓
+B) Indicar que es una constante.
+C) Hacer que la cadena sea inmutable.
+D) Agregar un comentario.
+
+¿Qué palabra clave se usa para declarar un bucle que se ejecuta mientras una condición sea verdadera?
+A) for
+B) while ✓
+C) do
+D) switch
+
+¿Cuál es el método correcto para redondear un número decimal a dos decimales?
+A) Math.Round(numero, 2) ✓
+B) Math.Round(2, numero)
+C) numero.Round(2)
+D) Round.Math(numero, 2)
+
+¿Cuál de las siguientes estructuras de datos almacena elementos únicos?
+A) List
+B) HashSet ✓
+C) Queue
+D) Stack
+
+¿Cómo se genera un número aleatorio entre 1 y 6 en C#?
+A) Random.Next(1, 6)
+B) Random rnd = new Random(); rnd.Next(1, 7) ✓
+C) Math.Random(1, 6)
+D) Random(1, 6)
+
+¿Qué estructura de control se utiliza para ejecutar código basado en el valor de una variable?
+A) if-else
+B) switch ✓
+C) do-while
+D) try-catch
+
+¿En C#, qué palabra clave se usa para manejar excepciones?
+A) exception
+B) handle
+C) try-catch ✓
+D) error
+
+¿Cómo defines un arreglo de enteros en C#?
+A) int[] numeros = new int[5]; ✓
+B) int numeros = [5];
+C) array numeros = int[5];
+D) int numeros[5];
+
+¿Cuál es el método correcto para recorrer todos los elementos de una lista en C#?
+A) for
+B) foreach ✓
+C) while
+D) Todos los anteriores
+
+¿Cuál es el resultado de Math.Pow(2, 3)?
+A) 6
+B) 8 ✓
+C) 9
+D) 16
+
+¿Qué método se utiliza para convertir un entero a una cadena?
+A) ToString() ✓
+B) Convert.ToString()
+C) string.Convert()
+D) int.Parse()
+
+¿Qué se utiliza para declarar una constante en C#?
+A) var
+B) readonly
+C) const ✓
+D) static
+
+¿Qué palabra clave se usa para heredar de una clase base?
+A) inherit
+B) extends
+C) base
+D) : ✓
+
+¿Cuál es el propósito del método Dispose()?
+A) Manejar errores.
+B) Liberar recursos no administrados. ✓
+C) Iniciar el programa.
+D) Convertir tipos de datos.
+
+¿Qué estructura de datos sigue el principio LIFO (Last In, First Out)?
+A) Queue
+B) List
+C) Stack ✓
+D) HashSet
+
+¿Qué clase se utiliza para manejar listas genéricas?
+A) Array
+B) ArrayList
+C) List ✓
+D) LinkedList
+
+¿Qué palabra clave se usa para declarar una interfaz?
+A) interface ✓
+B) abstract
+C) implements
+D) class
+
+¿Qué sucede si catch no maneja una excepción?
+A) El programa se detiene. ✓
+B) El programa se reinicia.
+C) La excepción se ignora.
+D) El programa regresa al estado inicial.
+
+¿Cuál es el tamaño predeterminado de un int en C#?
+A) 16 bits
+B) 32 bits ✓
+C) 64 bits
+D) 128 bits
+
+¿Cómo puedes verificar si una clave existe en un Dictionary?
+A) dictionary.CheckKey(key)
+B) dictionary.KeyExists(key)
+C) dictionary.ContainsKey(key) ✓
+D) dictionary.HasKey(key)
+
+¿Qué operador se usa para la asignación condicional en C#?
+A) &&
+B) ||
+C) ?: ✓
+D) ==
+
+¿Cuál de los siguientes es un valor booleano?
+A) "true"
+B) true ✓
+C) "false"
+D) 1
+
+¿Qué clase se utiliza para capturar entradas del teclado?
+A) Console.ReadLine() ✓
+B) Console.Input()
+C) System.Read()
+D) Input.Capture()
+
+¿Cuál es el propósito de using en C#?
+A) Declarar variables.
+B) Importar namespaces. ✓
+C) Iniciar el programa.
+D) Manejar excepciones.
+
+¿Qué palabra clave se usa para detener un bucle?
+A) break ✓
+B) continue
+C) stop
+D) exit
+
+¿Cuál de los siguientes tipos de datos almacena un solo carácter?
+A) string
+B) char ✓
+C) bool
+D) int
+
+¿Qué palabra clave se utiliza para devolver un valor de un método?
+A) return ✓
+B) break
+C) yield
+D) end
+
+¿Cuál es la sintaxis correcta para agregar un elemento a una lista?
+A) list.Add(elemento); ✓
+B) list[elemento] = elemento;
+C) list += elemento;
+D) list.Push(elemento);
+
+¿Qué palabra clave se usa para implementar una interfaz?
+A) implement
+B) class
+C) : ✓
+D) interface
+
+¿Cuál es el resultado de 5 % 2?
+A) 1 ✓
+B) 2
+C) 0
+D) Error
+
+¿Qué clase se utiliza para trabajar con fechas en C#?
+A) Time
+B) Date
+C) DateTime ✓
+D) Calendar
+
+¿Qué operador se usa para concatenar cadenas?
+A) + ✓
+B) &
+C) ++
+D) +=
+
+¿Qué significa null en C#?
+A) Una cadena vacía.
+B) Una referencia no asignada. ✓
+C) Un entero igual a 0.
+D) Un booleano falso.
+
+¿Cómo puedes definir un arreglo multidimensional en C#?
+A) int[,] matriz = new int[3,3]; ✓
+B) int[][] matriz = new int[3,3];
+C) array matriz = int[3,3];
+D) matriz = int[3][3];
+
+¿Cuál es el propósito del método Equals()?
+A) Comparar referencias de objetos.
+B) Comparar valores de objetos. ✓
+C) Comprobar si un objeto es null.
+D) Convertir un objeto a cadena.
+
+¿Qué palabra clave se usa para declarar una clase abstracta?
+A) class
+B) abstract ✓
+C) implements
+D) interface
+
+¿Qué operador se utiliza para comparar dos referencias de objetos?
+A) == ✓
+B) Equals()
+C) CompareTo()
+D) Object.ReferenceEquals()
+
+¿Cuál es la clase utilizada para manejar excepciones genéricas?
+A) Exception ✓
+B) Error
+C) Throwable
+D) Catch
+

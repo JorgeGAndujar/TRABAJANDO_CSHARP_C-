@@ -1,0 +1,29 @@
+﻿<Window x:Class="ProyectoVentanaMysql.MenuWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProyectoVentanaMysql"
+        mc:Ignorable="d"
+        
+        Title="Ventana WPF"
+        Height="300"
+        Width="400"
+        Icon="C:/TRABAJANDO_CSHARP_C#/cross1.png"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="SingleBorderWindow"
+        Background="LightGray">
+    
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+            <Button Content="Buscar producto por id ComboBox" Margin="5" FontSize="10" Click="BtnBuscar_Click" Width="250" />
+            <Button Content="Mostrar todos los productos DataGrid" Margin="5" FontSize="10" Click="BtnMostrar_Click" Width="250" />
+            <Button Content="Buscar productos por id TextBox" Margin="5" FontSize="10" Click="BtnBuscarId_Click" Width="250" />
+            <Button Content="Insertar Usuarios" Margin="5" FontSize="10" Click="BtnInsertarUsuario_Click" Width="250" />
+            <Button Content="Mostrar Usuarios DataGrid" Margin="5" FontSize="10" Click="BtnMostrarUsuario_Click" Width="250" />
+            <Button Content="Salir" Margin="5" FontSize="10" Click="BtnSalir_Click" Width="150" />
+        </StackPanel>
+
+    </Grid>
+</Window>
