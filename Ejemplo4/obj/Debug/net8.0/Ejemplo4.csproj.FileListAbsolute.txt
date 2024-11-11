@@ -1,0 +1,15 @@
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\Ejemplo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\Ejemplo4.AssemblyInfoInputs.cache
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\Ejemplo4.AssemblyInfo.cs
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\Ejemplo4.csproj.CoreCompileInputs.cache
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\Ejemplo4.sourcelink.json
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\bin\Debug\net8.0\Ejemplo4.exe
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\bin\Debug\net8.0\Ejemplo4.deps.json
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\bin\Debug\net8.0\Ejemplo4.runtimeconfig.json
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\bin\Debug\net8.0\Ejemplo4.dll
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\bin\Debug\net8.0\Ejemplo4.pdb
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\Ejemplo4.dll
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\refint\Ejemplo4.dll
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\Ejemplo4.pdb
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\Ejemplo4.genruntimeconfig.cache
+C:\TRABAJANDO_CSHARP_C#\Ejemplo4\obj\Debug\net8.0\ref\Ejemplo4.dll
